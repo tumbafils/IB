@@ -1,0 +1,2 @@
+Main-Class: com.sample.functiontester.FunctionTester
+Class-Path: IBScanCommon.jar IBScanUltimate.jar

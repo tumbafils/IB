@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>IB_logo.bmp</file>
+        <file>Lock.bmp</file>
+        <file>Scanner.bmp</file>
+        <file>Device_Status.bmp</file>
+        <file>Devices.bmp</file>
+        <file>Fingerprint_Status.bmp</file>
+    </qresource>
+</RCC>

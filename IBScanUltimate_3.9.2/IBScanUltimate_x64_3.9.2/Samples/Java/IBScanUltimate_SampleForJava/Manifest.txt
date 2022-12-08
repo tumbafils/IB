@@ -1,0 +1,2 @@
+Main-Class: com.sample.IBScanUltimate_SampleforJava.IBScanUltimate_Sample
+Class-Path: IBScanCommon.jar IBScanUltimate.jar
